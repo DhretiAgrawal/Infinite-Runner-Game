@@ -1,1 +1,2 @@
-# Infinite-Runner-Game
+# Trex-Runner
+Chrome's endless trex runner game
